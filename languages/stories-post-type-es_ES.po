@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Stories Post Type 1.2.0 es_ES\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-13 17:01+0100\n"
+"PO-Revision-Date: 2010-12-13 17:01+0100\n"
+"Last-Translator: Fran Ontanaya <contacto@franontanaya.com>\n"
+"Language-Team: Fran Ontanaya <contacto@franontanaya.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+
+#: stories-post-type.php:41
+msgid "Stories"
+msgstr "Historias"
+
+#: stories-post-type.php:61
+msgid "Works"
+msgstr "Obras"
+
+#: stories-post-type.php:62
+msgid "Licenses"
+msgstr "Licencias"
+
+#: stories-post-type.php:63
+msgid "Sections"
+msgstr "Secciones"
+
+#: stories-post-type.php:73
+#: stories-post-type.php:76
+msgid "Public Domain"
+msgstr "Dominio Público"
+
+#: stories-post-type.php:81
+#: stories-post-type.php:84
+msgid "All rights reserved"
+msgstr "Todos los derechos reservados"
+
+#: stories-post-type.php:102
+#: stories-post-type.php:111
+#: stories-post-type.php:120
+#: stories-post-type.php:129
+#: stories-post-type.php:138
+#: stories-post-type.php:147
+msgid "Attribution"
+msgstr "Reconocimiento"
+
+#: stories-post-type.php:111
+#: stories-post-type.php:120
+msgid "NoDerivs"
+msgstr "NoDerivativas"
+
+#: stories-post-type.php:120
+#: stories-post-type.php:129
+#: stories-post-type.php:138
+msgid "NonCommercial"
+msgstr "NoComercial"
+
+#: stories-post-type.php:138
+#: stories-post-type.php:147
+msgid "ShareAlike"
+msgstr "CompartirIgual"
+
+#: stories-post-type.php:154
+msgid "Introductions"
+msgstr "Introducciones"
+
+#: stories-post-type.php:157
+msgid "Introductory texts"
+msgstr "Textos introductorios"
+
+#: stories-post-type.php:162
+msgid "Contents"
+msgstr "Contenidos"
+
+#: stories-post-type.php:165
+msgid "The main body of text"
+msgstr "El cuerpo principal de texto"
+
+#: stories-post-type.php:170
+msgid "Notes"
+msgstr "Notas"
+
+#: stories-post-type.php:173
+msgid "Notes and references"
+msgstr "Notas y referencias"
+
+#: stories-post-type.php:178
+msgid "Extras"
+msgstr "Extras"
+
+#: stories-post-type.php:181
+msgid "Support and accesory content"
+msgstr "Contenido auxiliar y accesorio"
+
+#: stories-post-type.php:186
+msgid "Discussions"
+msgstr "Debates"
+
+#: stories-post-type.php:189
+msgid "Additional pages for discussion of the content"
+msgstr "Páginas adicionales para debatir el contenido"
+
+#: stories-post-type.php:204
+msgid "Displays the latest stories with their thumbnails and taxonomic terms"
+msgstr "Muestra las últimas historias con sus miniaturas y términos taxonómicos"
+
+#: stories-post-type.php:215
+msgid "Title:"
+msgstr "Título:"
+
+#: stories-post-type.php:217
+msgid "Number of stories:"
+msgstr "Número de historias"
+
+#: stories-post-type.php:218
+msgid "Display thumbnails?"
+msgstr "¿Mostrar miniaturas?"
+
+#: stories-post-type.php:219
+msgid "Thumbnail height:"
+msgstr "Altura de miniaturas:"
+
+#: stories-post-type.php:220
+msgid "Thumbnail width:"
+msgstr "Anchura de miniaturas:"
+
+#: stories-post-type.php:239
+msgid "Recent stories"
+msgstr "Historias recientes"
+
+#: stories-post-type.php:327
+#: stories-post-type.php:487
+msgid "Order Works"
+msgstr "Ordenar Obras"
+
+#: stories-post-type.php:452
+msgid "settings saved."
+msgstr "opciones guardadas."
+
+#: stories-post-type.php:460
+msgid "Works Order"
+msgstr "Orden de obras"
+
+#: stories-post-type.php:463
+msgid "&laquo; Back"
+msgstr "&laquo; Atrás"
+
+#: stories-post-type.php:466
+msgid "Top level works"
+msgstr "Obras de primer nivel"
+
+#: stories-post-type.php:478
+msgid "More &raquo;"
+msgstr "Más &raquo;"
+
